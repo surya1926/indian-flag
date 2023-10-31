@@ -1,0 +1,27 @@
+.cnt{
+    width:500px;
+    height: 300px;
+    padding-top: 5rem;
+    padding-left: 50px;
+    background-color: aquamarine;
+    border-radius: 15px;
+}
+.hero h1{
+    margin: 0px;
+    margin-bottom: 2px;
+}
+.hero p{
+    margin:0px;
+    margin-top: 20px;
+}
+.btn{
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    padding-top: 9px;
+    font-weight: 600;
+    margin-top: 30px;
+    background-color: white;
+    font-size: 12px;
+    border-radius: 20px;
+}
